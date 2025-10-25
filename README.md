@@ -1,28 +1,9 @@
 # 🌾 AgriBot - Smart Agriculture Assistant
 
-BY MEHAK RANA
-
-AgriBot is an intelligent agriculture recommendation system that helps farmers make informed decisions about crop selection and fertilizer application based on soil conditions, weather data, and location information.
 
 ## Technical Details
-
-### Frontend Technologies
-- **HTML5**: Semantic markup
-- **CSS3**: Modern styling with animations
-- **JavaScript**: Interactive functionality
-
-
-### Backend Technologies
-- **Flask**: Web framework
-- **Scikit-learn**: Machine learning models
-- **Pandas**: Data processing
-- **NumPy**: Numerical computations
-- **Requests**: API integrations
-
-### Machine Learning Models
-- **Random Forest**: Crop recommendation
-- **Logistic Regression**: Fertilizer recommendation
-- **Regional Data Integration**: Location-based climate analysis
+ML for Model Training 
+HTML CSS Frontend
 
 
 ## Dataset 
@@ -108,9 +89,6 @@ python start.py
 - **5**: DAP
 - **6**: Urea
 
-
-
-### Youtube Link
 
 
 
